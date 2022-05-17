@@ -1,5 +1,9 @@
 # Luo-genotyper
 
+
+[![DOI](https://zenodo.org/badge/493383966.svg)](https://zenodo.org/badge/latestdoi/493383966)
+
+
 A Immunoglobulin Heavy Chain Variable Gene genotyping tool for WGS short reads based on Luo et al. (2019). Link to the [paper](www.doi.org/10.26508/lsa.201800221).
 
 
